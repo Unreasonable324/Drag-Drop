@@ -39,6 +39,3 @@ function dragdrop(event) {
    event.target.append(item)
    event.target.classList.remove('hovered')
 }
-
-
-https://codepen.io/Unreasonable324/pen/JjZRJwq
